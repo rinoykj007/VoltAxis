@@ -81,7 +81,7 @@ const HeroSection = () => {
           <div className="relative flex justify-center lg:justify-end">
             <div className="relative w-full max-w-md">
               <img
-                src="https://template.binaryvines.com/servat/assets/images/banner/banner-girl-1.png"
+                src="https://ik.imagekit.io/hkwdglek8/VoltAxis/ChatGPT_Image_Sep_29__2025__08_26_15_AM-removebg-preview.jpg?updatedAt=1759131509193"
                 alt="Professional service"
                 className="w-full h-auto object-contain hover:scale-105 transition-transform duration-500"
               />
